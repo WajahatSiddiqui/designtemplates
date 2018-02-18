@@ -1,7 +1,7 @@
 # designtemplates
 Best code practices for various design
 
-1. Equals design: Date Class [a link] https://github.com/WajahatSiddiqui/designtemplates/blob/master/Designs/src/Date.java
+1. Equals design: [Date Class] (https://github.com/WajahatSiddiqui/designtemplates/blob/master/Designs/src/Date.java)
    * Optimization for null reference equality
    * Check against null
    * Check that two objects are of the same type and cast.
